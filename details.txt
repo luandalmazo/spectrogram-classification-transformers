@@ -1,0 +1,23 @@
+Dataset (156 , 1630)
+	- Train
+		- with-disorder (80%)
+		- no-disorder (80%)
+	- Validation
+		- with-disorder (10%)
+		- no-disorder (10%)
+	- Test
+		- with-disorder (10%)
+		- no-disorder (10%)
+
+Dataset split completed successfully.
+Train: 80.0%, Test: 10.0%, Validation: 9.999999999999995%
+
+Train
+	without-disorder - 1304
+	with-disorder - 124
+
+Balanced.
+https://github.com/iver56/audiomentations
+
+Test set metrics: {'eval_loss': 0.6572120785713196, 'eval_accuracy': 0.8932584269662921, 'eval_precision': 0.9137931034482759, 'eval_recall': 0.9754601226993865, 'eval_f1': 0.9436201780415431, 'eval_runtime': 160.6581, 'eval_samples_per_second': 1.108, 'eval_steps_per_second': 0.143, 'epoch': 10.0}
+

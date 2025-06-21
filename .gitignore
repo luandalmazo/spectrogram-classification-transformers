@@ -3,3 +3,5 @@ env/
 audios/
 logs/
 results/
+split_dataset/
+dataset/
